@@ -1,1 +1,1 @@
-# Chatbot_Imersao_Ia_Alura_Google
+The project consists of a responsive chat using Python and the 'Gemini' API from Alura and Google's 'AI Immersion' course.
